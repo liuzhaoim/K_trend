@@ -1,0 +1,14 @@
+numpy
+pandas
+xarray
+dask[distributed]
+netCDF4
+h5netcdf
+scipy
+matplotlib
+cartopy
+cmocean
+seaborn
+PyWavelets
+tqdm
+pyeemd
